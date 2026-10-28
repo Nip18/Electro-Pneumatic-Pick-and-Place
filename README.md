@@ -97,10 +97,10 @@ These photographs show the physical mechanism, pneumatic connections, and electr
 
 ## Project Status
 
-- Mechanical prototype assembled.
-- FreeCAD models and STEP exports created.
-- Basic Arduino relay-sequencing simulation completed.
-- Physical control firmware and the complete operating sequence remain to be verified.
+- [x] Mechanical CAD model developed
+- [x] Physical prototype assembled
+- [x] Arduino-based relay sequencing implemented and demonstrated
+- [x] Complete pneumatic operating cycle validated
 
 ## Future Prototypes and Improvements
 
