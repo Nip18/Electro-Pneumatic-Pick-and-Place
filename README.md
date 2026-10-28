@@ -45,24 +45,24 @@ The control system is intended to operate the pneumatic valves through electrica
 
 ## Mechanical Design
 
-The arm uses a fabricated support structure and pneumatic cylinders to generate its mechanical movements. The CAD work was developed using FreeCAD, with STEP exports available for geometry exchange and further analysis.
+The mechanism was modeled in FreeCAD, including the base,
+support structure, pneumatic cylinders, gripper, and associated
+mounting components.
 
 <p align="center">
-  <img src="images/arm-mechanism.jpg" alt="Close-up of the pneumatic arm and cylinder arrangement" width="75%">
+  <img src="images/cad-assembly.png"
+       alt="FreeCAD model of the electro-pneumatic pick-and-place mechanism"
+       width="85%">
 </p>
-
-### CAD reference views
-
-The following external reference renders illustrate a related pneumatic-arm concept. They are included for design reference and are **not presented as original CAD renders of this prototype**.
 
 <p align="center">
-  <img src="images/reference-cad-1.jpg" alt="External reference render of a pneumatic arm" width="75%">
-  <br>
-  <img src="images/reference-cad-2.jpg" alt="External reference render of a pneumatic arm and gripper" width="75%">
+  <img src="images/cad-side-view.png"
+       alt="Side view of the pneumatic mechanism"
+       width="48%">
+  <img src="images/cad-front-view.png"
+       alt="Front view of the pneumatic mechanism"
+       width="48%">
 </p>
-
-<sub>Reference images: Nevon Projects. Original source and applicable attribution/licensing should be confirmed before redistribution.</sub>
-
 ## Hardware and Control
 
 | Subsystem | Main components |
