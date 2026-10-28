@@ -100,7 +100,7 @@ These photographs show the physical mechanism, pneumatic connections, and electr
 - [x] Mechanical CAD model developed
 - [x] Physical prototype assembled
 - [x] Arduino-based relay sequencing implemented and demonstrated
-- [x] Complete pneumatic operating cycle validated
+- [x] Complete pneumatic operating cycle validated(can be seen in the video)
 
 ## Future Prototypes and Improvements
 
