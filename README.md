@@ -92,9 +92,6 @@ The simulation demonstrates basic sequential relay switching. It is a separate c
   <img src="images/prototype-workshop.jpg" alt="Pneumatic prototype and control setup in the workshop" width="80%">
 </p>
 
-<p align="center">
-  <img src="images/prototype-cylinders.jpg" alt="Pneumatic cylinders mounted on the fabricated mechanism" width="80%">
-</p>
 
 These photographs show the physical mechanism, pneumatic connections, and electronics used during development.
 
